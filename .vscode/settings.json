@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/ee9774cf-c0cf-4bdd-9254-8ac6f2b94372/resourceGroups/saloni/providers/Microsoft.Web/sites/mywebapp3",
+    "appService.deploySubpath": "."
+}
